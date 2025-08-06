@@ -1,5 +1,9 @@
 
-## Usage
+This is just a basic and editable template that anyone can use for their AI project / website
+
+
+How t use it:
+
 
 * This template uses tailwind css every tailwind class are prefixed with `tw-`, to help differentiate
   between tailwind classes and other classes  
@@ -24,5 +28,3 @@ To create a build file use
 ```html
 npm run build:tailwind
 ```
-
-For help contact [here](tally.so/r/woO0Kx). I'll get back to you in 24-48hrs during business days.
